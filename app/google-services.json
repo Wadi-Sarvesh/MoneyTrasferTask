@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997522438254",
+    "project_id": "tayseerassignment-87bf0",
+    "storage_bucket": "tayseerassignment-87bf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997522438254:android:151e24772354c21e6fce7f",
+        "android_client_info": {
+          "package_name": "com.wadis.tayseerassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997522438254-fm49m9vtk1q7eqlosfsm7h0kgtqj74dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6d-7-sijLzZ9w55LKtIj9AcJJQBAWoeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997522438254-fm49m9vtk1q7eqlosfsm7h0kgtqj74dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

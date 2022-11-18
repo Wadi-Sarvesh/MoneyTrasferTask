@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TayseerAssignment</string>
+    <string name="send">Amount to send ($)</string>
+    <string name="recieve">Amount Recieved (₹)</string>
+    <string name="sendName">Sender\'s Name</string>
+    <string name="recName">Receiver\'s Name</string>
+    <string name="purpose">Purpose</string>
+    <string-array name="dropdown">
+        <item>Expenses</item>
+        <item>Admission fees</item>
+        <item>Electricity Bill</item>
+        <item>Recharge</item>
+
+    </string-array>
+</resources>
